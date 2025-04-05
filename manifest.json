@@ -1,7 +1,6 @@
 {
   "name": "تحويل صورة إلى نص",
-  "short_name": "تحويل صورة",
-  "description": "تطبيق لتحويل الصور إلى نص باستخدام Tesseract.js",
+  "short_name": "تحويل نص",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
